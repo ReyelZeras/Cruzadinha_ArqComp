@@ -1,1 +1,0 @@
-# Cruzadinha_ArqComp
